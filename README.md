@@ -33,7 +33,6 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 ## SARSA LEARNING FUNCTION
 
 ```
-#Pradeesh S 212221240038
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
